@@ -3,4 +3,5 @@ bb
 cc
 text
 exit by hot_fix`
-我令狐冲
+我令狐冲 新增冲突测试
+
